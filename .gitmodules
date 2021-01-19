@@ -1,0 +1,12 @@
+[submodule "libs/DataLogger"]
+	path = libs/DataLogger
+	url = https://github.com/T-Iwata0910/DataLogger
+[submodule "libs/rlAdaptiveModularAgent"]
+	path = libs/rlAdaptiveModularAgent
+	url = https://github.com/T-Iwata0910/rlAdaptiveModularAgent
+[submodule "libs/rlMultipleEnvironment"]
+	path = libs/rlMultipleEnvironment
+	url = https://github.com/T-Iwata0910/rlMultipleEnvironmet
+[submodule "libs/rlDiscreteLQT"]
+	path = libs/rlDiscreteLQT
+	url = https://github.com/T-Iwata0910/RLDiscreteLQT
