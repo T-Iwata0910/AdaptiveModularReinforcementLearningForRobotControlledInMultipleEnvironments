@@ -10,3 +10,6 @@
 [submodule "libs/rlDiscreteLQT"]
 	path = libs/rlDiscreteLQT
 	url = https://github.com/T-Iwata0910/RLDiscreteLQT
+[submodule "libs/rlMultipleRLSARELQTAgent"]
+	path = libs/rlMultipleRLSARELQTAgent
+	url = https://github.com/T-Iwata0910/rlMultipleRLSARELQTAgent.git
