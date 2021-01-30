@@ -13,3 +13,6 @@
 [submodule "libs/rlMultipleRLSARELQTAgent"]
 	path = libs/rlMultipleRLSARELQTAgent
 	url = https://github.com/T-Iwata0910/rlMultipleRLSARELQTAgent.git
+[submodule "libs/rlARTLQTAgent"]
+	path = libs/rlARTLQTAgent
+	url = https://github.com/T-Iwata0910/OptimalControlUsingAdaptiveResonanceTheoryAndQ-learning.git
